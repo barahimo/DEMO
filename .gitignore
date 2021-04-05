@@ -1,2 +1,2 @@
-application.log
-config.log
+*.log
+database/
